@@ -1,0 +1,2 @@
+# gametimebot
+bot for discord
